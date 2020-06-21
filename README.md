@@ -8,4 +8,4 @@
 </p>
 <br>
 
-![Catalogo MPDuarte](https://github.com/MauricioPDuarte/catalogo-cards/ca1.png)
+![Catalogo MPDuarte](https://raw.githubusercontent.com/MauricioPDuarte/catalogo-cards/master/ca3.png)
