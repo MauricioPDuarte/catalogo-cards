@@ -4,6 +4,6 @@
 </p>
 <br>
 
-<center>
-  ![Catalogo MPDuarte](https://raw.githubusercontent.com/MauricioPDuarte/catalogo-cards/master/ca3.png)
-</center>
+
+ ![Catalogo MPDuarte](https://raw.githubusercontent.com/MauricioPDuarte/catalogo-cards/master/ca3.png)
+
