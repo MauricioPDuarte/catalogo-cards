@@ -1,4 +1,4 @@
-<h1 align="center">💻 Catalogo</h1>
+<h1 align="center">💻 Catálogo</h1>
 <p align="center">
   Um catálogo simples utilizando GRID e FLEX.
 </p>
